@@ -24,7 +24,7 @@ The Prescription Management System is a Java-based application designed to track
 ### Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Atharvgarje/prescription-management-system.git
+   git clone https://github.com/Atharvgarje/PrescriptionManagement
    ```
 2. Install **MySQL** and create the necessary tables using the provided SQL scripts in the `db-scripts` folder.
 3. Configure the database connection in the `dbconfig.properties` file.
